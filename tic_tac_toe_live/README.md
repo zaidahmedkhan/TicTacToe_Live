@@ -1,16 +1,15 @@
 # tic_tac_toe_live
 
-A new Flutter project.
+TicTacToe_Live is a real-time, multiplayer Tic-Tac-Toe game built using Flutter for the frontend and Node.js for the backend. This app allows two players to compete in the classic game of Tic-Tac-Toe, with live updates powered by socket communication for a smooth and responsive gaming experience.
 
-## Getting Started
+## Features
+- **Multiplayer**: Play in real-time with another player.
+- **Cross-Platform**: Available for both iOS and Android.
+- **Live Updates**: Instant moves and results using socket-based communication.
+- **Node.js Backend**: Efficient server-side logic and real-time handling.
+- **User-Friendly UI**: Simple and interactive design for an engaging experience.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- **Frontend**: Flutter (Dart)
+- **Backend**: Node.js (Socket.IO)
+- **State Management**: Provider
